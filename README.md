@@ -6,7 +6,7 @@
     align="left"
   />
   <br />
-  LM-Polygraph: Uncertainty Estimation for LLMs
+  TrustGauge<>()
 </h1>
 
 <br clear="all"/>
